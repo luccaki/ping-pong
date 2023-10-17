@@ -1,0 +1,5 @@
+#add_subdirectory(helloworld)
+#add_subdirectory(asteroids4)
+#add_subdirectory(coloredtriangles)
+#add_subdirectory(regularpolygons)
+add_subdirectory(ping-pong)
